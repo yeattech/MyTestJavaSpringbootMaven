@@ -9,6 +9,8 @@
 # Development Tools
 - Intellij (Build #IC-251.25410.129, built on May 9, 2025)
 
+# Swagger Access
+- http://localhost:8080/swagger-ui/index.html
 
 # Project Branching
 
